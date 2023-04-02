@@ -10,7 +10,7 @@ export default class Money {
 }
 
 Money.amountYuan = () => {
-    console.log('myTest')
+    console.log('myTest1')
     return new Money('元')
 }
 
